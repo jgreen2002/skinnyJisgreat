@@ -1,1 +1,1 @@
-# skinnyJisgreat
+# skinnyjisgreat
