@@ -1,0 +1,6 @@
+body{background-color: #33FFF0}
+h1{color:#FF33DA;font-family: Helvetica;font-size: 30pt }
+p{color: #FF33DA;font-family: Garamond;font-size: 14pt}
+ul{color: #3342FF}
+a{color: #3342FF;text-decoration: none;}
+a:hover {color: blue; text-decoration: underline;}
